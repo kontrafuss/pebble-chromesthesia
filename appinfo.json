@@ -1,0 +1,19 @@
+{
+  "uuid": "fc3083db-066f-4fd7-9ecf-b84cbaa830c9",
+  "shortName": "Chromesthesia",
+  "longName": "Chromesthesia",
+  "companyName": "Kontrafuss",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
